@@ -1,0 +1,8 @@
+﻿1 Bob Bobby Stockton MO 1.24
+2 Jeff Jeffery Liberty KS 2.44
+3 Bob Bobby Stockton MO 1.88
+4 Jeff Jeffery Liberty KS 2.14
+5 Bob Bobby Stockton MO 1.10
+6 Jeff Jeffery Liberty KS 3.44
+7 Bob Bobby Stockton MO 4.00
+9 jette jamroch Coolsville US 4.10

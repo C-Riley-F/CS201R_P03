@@ -1,0 +1,8 @@
+﻿  2dVector.cpp
+f:\storage\documents\school\cs201 (lecture)\student data (p_03)\student data (p_03)\2dvector.cpp(64): warning C4018: '<': signed/unsigned mismatch
+f:\storage\documents\school\cs201 (lecture)\student data (p_03)\student data (p_03)\2dvector.cpp(65): warning C4018: '<': signed/unsigned mismatch
+f:\storage\documents\school\cs201 (lecture)\student data (p_03)\student data (p_03)\2dvector.cpp(86): warning C4018: '<': signed/unsigned mismatch
+f:\storage\documents\school\cs201 (lecture)\student data (p_03)\student data (p_03)\2dvector.cpp(97): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  Student Data (P_03).vcxproj -> F:\Storage\Documents\School\CS201 (Lecture)\Student Data (P_03)\Debug\Student Data (P_03).exe
